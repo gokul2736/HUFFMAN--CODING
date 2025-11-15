@@ -24,7 +24,9 @@ calculate frequency of occurence
 print the characters and its huffmancode
  
 ## Program:
-```
+
+## Get the input String
+```python
 string = 'Markandeyan Gokul'
 ```
 ## Create tree nodes
